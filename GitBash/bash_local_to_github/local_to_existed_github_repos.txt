@@ -1,0 +1,14 @@
+从本地已初始化的库向github.com已存在的库提交代码
+
+git add abc.txt
+
+git commit
+
+git push -u origin master
+
+输入gihub.com账号
+
+输入github.com密码
+
+
+完成
